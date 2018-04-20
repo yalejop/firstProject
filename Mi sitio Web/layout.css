@@ -1,0 +1,22 @@
+#encabezado {
+
+}
+
+#principal { 
+	float: left;
+	width: 60%;
+	box-sizing: border-box;
+	padding: 20px;
+ }
+
+ #secundario {
+ 	float: right;
+ 	width: 40%;
+ 	box-sizing: border-box;
+ 	padding: 20px;
+ }
+
+ #pie{
+ 	clear: both;
+
+ }
